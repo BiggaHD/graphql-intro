@@ -1,0 +1,25 @@
+{
+  "name": "users-query",
+  "version": "1.0.0",
+  "description": "A simple app to demonstrate how GraphQL is implemented with ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "graphql",
+    "expressjs",
+    "nodejs"
+  ],
+  "author": "Dzenis H.",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "express": "^4.14.0",
+    "express-graphql": "^0.6.1",
+    "graphql": "^0.8.2",
+    "json-server": "^0.9.4",
+    "lodash": "^4.17.4"
+  }
+}
