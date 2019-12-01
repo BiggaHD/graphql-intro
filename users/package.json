@@ -15,7 +15,7 @@
   "author": "Dzenis H.",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.19.0",
     "express": "^4.14.0",
     "express-graphql": "^0.6.1",
     "graphql": "^0.8.2",
